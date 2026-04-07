@@ -2,7 +2,7 @@
 
 ## Status
 
-> **This project is currently in progress and will be completed within 1 week.**
+> **Project in progress**
 
 ## Overview
 
